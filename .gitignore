@@ -12,3 +12,6 @@ BuildingEscape/Content/StarterContent/
 # Unreal gen.
 =============
 *.VC.db
+*.suo
+*.VC.opendb
+*.sln
